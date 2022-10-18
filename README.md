@@ -20,3 +20,8 @@ The application is divided into layers.\
 # Notes
 
 The application is launched using nodemon, the command -npm run dev
+
+# P.S
+
+Node v18 has integrated watch mode, so no need for nodemon.
+node --watch file.js
